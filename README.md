@@ -79,4 +79,4 @@ For questions, suggestions, or collaboration inquiries, please reach out to:
 
 - **Email**: akhilmukka2004@gmail.com
 - **GitHub**: [mukkaakhil](https://github.com/MukkaAkhil)
-- **LinkedIn**: [mukkaakhil](www.linkedin.com/in/mukka-akhil)
+- **LinkedIn**: [mukkaakhil](www.linkedin.com/in/mukka-akhi)
